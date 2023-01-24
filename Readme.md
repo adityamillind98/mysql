@@ -1582,3 +1582,4 @@ $ MYSQL_HOST=localhost MYSQL_PORT=3306 MYSQL_DATABASE=node_mysql_test MYSQL_USER
 [npm-downloads-image]: https://badgen.net/npm/dm/mysql
 [npm-url]: https://npmjs.org/package/mysql
 [npm-version-image]: https://badgen.net/npm/v/mysql
+
